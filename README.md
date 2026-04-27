@@ -15,7 +15,6 @@ This project is a comprehensive, enterprise-level relational database architectu
 * **Security:** Role-based security, strict permissions, and an automated backup strategy.
 
 ## 📊 Entity-Relationship Diagram (ERD)
-*(Note: Upload your ERD image to the repo and update the path below)*
 ![Examination System ERD](ERD.jpeg)
 
 ## 🛠️ Technologies Used
