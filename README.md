@@ -22,5 +22,4 @@ This project is a comprehensive, enterprise-level relational database architectu
 * Database Normalization & Architecture
 * Performance Tuning & Security
 
-## 🤝 Acknowledgments
-Developed in collaboration with my amazing teammates Omnia Shaaban and Mohamed Mostafa, under the guidance of our instructor Alyaa Khaled during our intensive training.
+
